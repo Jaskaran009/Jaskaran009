@@ -5,6 +5,7 @@ I am web development student at humber college
 
 
 Learn more  <a href="about">about</a> me.
+
 Currenty learning programming languages
 
 ## Articles
