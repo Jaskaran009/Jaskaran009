@@ -1,3 +1,3 @@
 ## Jaskaran Kaur
-# I am web development student at humber college
+### I am web development student at humber college
 
