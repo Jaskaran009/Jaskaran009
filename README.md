@@ -2,6 +2,9 @@
 
 I am web development student at <a href ="https://humber.ca/">humber college</a>
 
+I am front end developer
+
+
 <img src="tech1.jpg" width="200px" height="200px"><img src="tech2.jpg" width="200px" height="200px"><img src="tech3.jpg" width="200px" height="200px"><img src="tech5.jpg" width="200px" height="200px">
 
 
