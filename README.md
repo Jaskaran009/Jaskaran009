@@ -1,7 +1,7 @@
 ## Hi! I am Jaskaran 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Jaskaran;She/her;Web Development+Student;Frontend+Dev;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Jaskaran;Web Development+Student;Frontend+Dev;Studying+at+Humber+College" alt="Computer Engineering Student,  front-end developer"></a>
 </div>
 
 
