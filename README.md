@@ -14,7 +14,7 @@
 <code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 
-Learn more  <a href="https://github.com/Jaskaran009/resume">about</a> me.
+<h2>:busts_in_silhouette: How to reach me</h2> <a href="https://github.com/Jaskaran009/resume">about</a> me.
 
 Currenty learning programming languages
 ## Python
