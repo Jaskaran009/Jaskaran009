@@ -15,7 +15,7 @@
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Jaskaran009"
+<a href="https://github.com/Jaskaran009">
 <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Jaskaran009?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
 </a>
 
