@@ -1,6 +1,5 @@
 ## Hi! I am Jaskaran 
 
-I am web development student at <a href ="https://humber.ca/">humber college</a>
 
 I am front end developer
 
