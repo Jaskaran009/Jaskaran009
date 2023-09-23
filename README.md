@@ -24,6 +24,7 @@
 
 ### My favorite books 📚
 <a href="https://www.amazon.ca/Power-Letting-Go-John-Purkiss/dp/1783253630">Power of Letting go</a>
+<a href="https://www.amazon.ca/Cant-Hurt-Me-Master-Your/dp/1544512287">Can't Hurt Me</a>
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 
