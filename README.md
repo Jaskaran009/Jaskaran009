@@ -16,7 +16,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Jaskaran009">
-<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Jaskaran009?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+<img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Jaskaran009?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Jaskaran009" height="22px">
 </a>
 
 Currenty learning programming languages
