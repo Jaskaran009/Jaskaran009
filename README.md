@@ -23,7 +23,7 @@
 </a>
 
 ### My favorite books 📚
-
+<a href="https://www.amazon.ca/Power-Letting-Go-John-Purkiss/dp/1783253630">Power of Letting go</a>
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 
