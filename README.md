@@ -10,6 +10,10 @@ I am front end developer
 Learn more  <a href="https://github.com/Jaskaran009/resume">about</a> me.
 
 Currenty learning programming languages
+## Python
+```py
+print("Hello World!")
+```
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
