@@ -22,11 +22,7 @@
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Jaskaran-kaur&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 
-Currenty learning programming languages
-## Python
-```py
-print("Hello World!")
-```
+### My favorite books 📚
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
