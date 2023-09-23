@@ -6,6 +6,8 @@ I am front end developer
 
 <img src="tech1.jpg" width="200px" height="200px"><img src="tech2.jpg" width="200px" height="200px"><img src="tech3.jpg" width="200px" height="200px"><img src="tech5.jpg" width="200px" height="200px">
 
+<h2>:bulb: Languages & Frameworks I code in</h2>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 
 Learn more  <a href="https://github.com/Jaskaran009/resume">about</a> me.
 
